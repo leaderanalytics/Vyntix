@@ -1,7 +1,8 @@
-# Vyntix
-Vyntix General Support
+![Vyntix](images/VyntixLogo.png)
 
-Use the Issues page on this repository for general questions about Vytix.
+# Vyntix General Support
+
+Use the Issues page on this repository for general questions about Vyntix.
 
 Be sure to check the [documentaton and FAQ](https://vyntix.com/documentation).
 
